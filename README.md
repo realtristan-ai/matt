@@ -18,9 +18,11 @@ Automatic Prompt Engineering Tool.
 _And more!_
 
 **Tech Stack:**
-- Next.js + React + tRPC
-- Tailwind CSS + Shadcn
-- Prisma + Postgresql
+- Python3
+- FastAPI
+- SQLite
+- OpenAI GPT4
+- HTML, CSS, & JavaScript
   
 
 **Screenshots:**
@@ -43,8 +45,10 @@ _And more!_
 
 **Tech Stack:**
 - Next.js + React + tRPC
+- TypeScript
 - Tailwind CSS + Shadcn
 - Prisma + Postgresql
+- OpenAI GPT4
 
 
 **Screenshots:**
@@ -59,19 +63,22 @@ Automated GitHub PR Analysis & Summarizer + Dashboard.
 **Video Preview:** https://streamable.com/frkkmc
 
 **About the app:**
-- Intuitive dashboard to see all summarized PRs (using webhooks + postgresql db)
-- Easily set the webhook for repositories (repositories page. no need to manually go into GitHub and set it)
+- Intuitive dashboard to see all summarized PRs (using webhooks + PostgreSQL db)
+- Easily set the webhook for repositories (repositories page, no need to manually go into GitHub and set it)
 - Automatically summarizes the PR.
   - Explicitly defines the new/removed features.
-  - Provides recommended bug, vulnerability, security, style fixes.
+  - Provides recommended bug, vulnerability, security, and style fixes.
   - Sends a comment in the PR with everything!
 
 _And more!_
 
 **Tech Stack:**
 - Next.js + React + tRPC
+- TypeScript
 - Tailwind CSS + Shadcn
 - Prisma + Postgresql
+- OpenAI GPT4
+- GitHub Webhooks
 
 
 **Screenshots:**
