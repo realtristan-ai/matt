@@ -20,7 +20,7 @@ _And more!_
 **Tech Stack:**
 - Python3
 - FastAPI
-- SQLite
+- SQLL Alchemy
 - OpenAI GPT4
 - HTML, CSS, & JavaScript
   
