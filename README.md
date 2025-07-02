@@ -84,6 +84,11 @@ _And more!_
 - GitHub Webhooks
 
 
+**Notes:**
+- My vision was to almost replicate [CodeRabbit](https://www.coderabbit.ai/) since they're service is pretty pricey.
+  - You need Enterprise with 500 users ($15,000/month), so yea...
+
+
 **Screenshots:**
 
 <img width="1798" alt="461281175-031efc2b-f04a-4aa6-80c9-a4b6c2aab99f" src="https://github.com/user-attachments/assets/77055826-f32e-4bd6-bd7b-2b37a2a78427" />
