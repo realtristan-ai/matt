@@ -86,7 +86,7 @@ _And more!_
 
 **Notes:**
 - My vision was to almost replicate [CodeRabbit](https://www.coderabbit.ai/) since they're service is pretty pricey.
-  - You need Enterprise with 500 users ($15,000/month), so yea...
+  - You need Enterprise with 500 users ($15,000/month) for self-hosting, so yea...
 
 
 **Screenshots:**
