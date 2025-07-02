@@ -27,7 +27,7 @@ _And more!_
 
 **Screenshots:**
 
-![image](https://github.com/user-attachments/assets/a96b6e01-972e-487e-9935-1e9cea4866ef)
+<img width="1795" alt="461279267-c5c525f0-cd1b-4a1d-9a70-0aec6009aa9d" src="https://github.com/user-attachments/assets/bc77c971-9aaa-40f7-b13d-aa7f426d9ed8" />
 
 
 
@@ -53,7 +53,8 @@ _And more!_
 
 **Screenshots:**
 
-![image](https://github.com/user-attachments/assets/a8747fd2-d4e4-46df-a1e4-0c249fdd083b)
+<img width="1797" alt="461281439-a95addbb-992e-4085-b115-050f98a8dc29" src="https://github.com/user-attachments/assets/0fc31a67-5949-4717-942f-89d602671f66" />
+
 
 
 ## pr.ai
