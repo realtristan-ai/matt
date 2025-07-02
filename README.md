@@ -83,6 +83,7 @@ _And more!_
 
 **Screenshots:**
 
-![image](https://github.com/user-attachments/assets/878d0c08-4829-4892-bb02-0686f5777719)
-![image](https://github.com/user-attachments/assets/81b59069-2c64-4ce4-8185-0db16ff1bfa3)
+<img width="1798" alt="461281175-031efc2b-f04a-4aa6-80c9-a4b6c2aab99f" src="https://github.com/user-attachments/assets/77055826-f32e-4bd6-bd7b-2b37a2a78427" />
+<img width="1786" alt="461281230-94e753c9-b378-4ae8-8176-54b1f7b646e1" src="https://github.com/user-attachments/assets/84414dc8-7695-4a00-bce8-50de7c9896ae" />
+
 
