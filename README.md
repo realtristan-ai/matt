@@ -39,8 +39,9 @@ Automated resume analysis & scoring dashboard.
 
 **Since last preview:**
 - Improved UI
-- Reduced score volatility. I tested 100+ applications with the same input and for every time, I got the same score :)
+- Reduced score volatility. I tested 100+ applications with the same input and for every time, I got the same score.
   - Used the `analyze.ai` tool above to refine the prompt :)
+  - So no need for manual tuning
 
 _And more!_
 
